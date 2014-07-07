@@ -13,13 +13,15 @@ Changes in this Fork
 
 -[x] Add a slot/bracket to one of the bottom sections for a base-mounted power socket (4-pin Power DIN).
 
--[ ] Add a hole for mounting a power switch to the base.
+-[x] Add a hole for mounting a power switch to the base.
 
--[ ] Add holes/brackets for a base-mounted screen/controller.
+-[x] Add holes/brackets for a base-mounted screen/controller.
 
--[ ] Add holes, spacing, and restraint holes for the extra wiring routed through the base.
+-[x] Add holes, spacing, and restraint holes for the extra wiring routed through the base.
 
--[ ] Re-jig the electronics mounting to fit the RUMBA board and perhaps some extra fans/boards.
+-[x] Re-jig the electronics mounting to fit the RUMBA board and perhaps some extra fans/boards.
+
+-[ ] Add hole for a USB socket on the base frame (RUMBA usb plug is rather fragile).
 
 -[ ] Eventually add mounts for tool-swapping.
 
